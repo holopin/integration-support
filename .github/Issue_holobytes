@@ -1,0 +1,48 @@
+Default 
+#Sticker: 
+cl7td8iq6014809k0mf12i1e6
+stickers:
+ID  cl7td8iq6014809k0mf12i1e6
+#alias: 
+deserves-badge
+# more stickers
+  holobytes:
+evolving Sticker ID; 06285774-8d59-3ea5-2e16-2b7534069d08
+#evolving sticker
+  ID; optional
+    alias:
+# some alias 
+#Icon : 
+# some icon
+if unspecified or invalid defaults to something from:
+# optional; 
+defaults to `false` if `true` assigns a
+from Alias as their
+`github username`
+and from `Url`
+as `github.com/username`
+ in:
+ # optional;
+defaults to false if true, 
+assigns url as the 
+`issue/pr` `url`  and `url Alias`
+as`<githuborg>/<repo>` or`<githubusername>/<repo>`
+  # below is an example of
+a list item without an
+evolvingStickerId
+alias:
+# some alias
+ icon:
+# some icon; if unspecified 
+or invalid defaults to something
+  from:
+# optional;
+defaults to 
+false,
+if true, assigns a fromAlias
+as their github username and `from Url` as `github.com/username` in
+# optional;
+defaults to false, if true, assigns 
+`url` as the `issue/pr` `url`
+and `url Alias` as `<githuborg>/<repo>` 
+or `<githubusername>/<repo>`
